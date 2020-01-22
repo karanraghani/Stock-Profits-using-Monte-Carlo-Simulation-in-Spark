@@ -1,0 +1,10 @@
+Hello karan,
+
+your hw3 is graded and your total grade is 8.5% + 3% for EMR.
+
+-1% for submitting on 25th which was first day of condition deadline(not considering the build.sbt changes)
+-0.5% : the simulation is bit vague/uncleat on how reselling/reinvestiment is done iteratively.
+
+
+Regards,
+Mohammed siddiq 
