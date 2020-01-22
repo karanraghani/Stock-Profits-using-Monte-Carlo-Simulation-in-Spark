@@ -1,4 +1,4 @@
-# Home Work III - Stock Portfolio Profits using Monte Carlo simulation in Spark
+# Stock Portfolio Profits using Monte Carlo simulation in Spark
 In this project work I ran the Stock Portfolio Dataset for few stocks on the Apache Spark Framework to extract
 to extract profit and losses that occured based on the investment made in them.
 
